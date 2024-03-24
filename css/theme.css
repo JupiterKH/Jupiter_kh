@@ -183,4 +183,4 @@ footer { flex-shrink: 0; }
 .btn:hover { background-position: right center; color: rgb(255, 255, 255); }
 .btn-3 { background-image: linear-gradient(to right, #84fab0 0%, #8fd3f4 51%, #84fab0 100%); }
 
-.backimg { height: 50rem; background-image: url(/assets/img/Portfolio-background_footer.jpg); background-repeat: no-repeat; background-position: top; background-size: cover; }
+.backimg { height: 50rem; background-image: url(./assets/img/Portfolio-background_footer.jpg); background-repeat: no-repeat; background-position: top; background-size: cover; }
